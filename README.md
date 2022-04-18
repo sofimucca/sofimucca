@@ -25,7 +25,7 @@ I am a Mechatronics Engineering student 📚 from Italy.
 
 - 💻 In my free time, I love learn more about operative systems and web developing 
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-chiarini-310ba0202/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-chiarini-310ba0202/)
 
 ---
 
