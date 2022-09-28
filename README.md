@@ -19,9 +19,9 @@
 
 ### :woman_technologist: About Me :
 
-I am a Mechatronics Engineering student 📚 from Italy.
+I am a Mechatronics Engineer📚 from Italy.
 
-- 🤖 I’m working as a Robotics Software Engineer.
+- 🤖 I’m working with industrial robots and PLC.
 
 - 💻 In my free time, I love learn more about operative systems and web developing 
 
